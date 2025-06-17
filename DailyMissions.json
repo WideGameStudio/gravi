@@ -1,0 +1,75 @@
+{
+    "everyday": [
+        {
+            "id": "have-fun",
+            "name": "Have fun",
+            "description": "Have fun. 😊",
+            "goals": {
+                "Statistics": [],
+                "PlayerData": []
+            },
+            "reward": 100
+        },
+        {
+            "id": "750-nexium-ore",
+            "name": "Mine 750 Nexium ore",
+            "description": "Use the pickaxe or the hand-drill to mine 750 Nexium ore. You can find Nexium ore on astroid nearby",
+            "goals": {
+                "Statistics": [
+                    {
+                        "statisticName": "DailyNexiumOre",
+                        "value": 750
+                    }
+                ],
+                "PlayerData": []
+            },
+            "reward": 200
+        },
+        {
+            "id": "5000-nexium-ore",
+            "name": "Mine 5000 Nexium ore",
+            "description": "Use the pickaxe or the hand-drill to mine 5000 Nexium ore. You can find Nexium ore on astroid nearby",
+            "goals": {
+                "Statistics": [
+                    {
+                        "statisticName": "DailyNexiumOre",
+                        "value": 5000
+                    }
+                ],
+                "PlayerData": []
+            },
+            "reward": 750
+        },
+        {
+            "id": "try-all-gadgets",
+            "name": "Try all Gadgets",
+            "description": "Try all Gadgets in the game (Bat, Iron Hand, Grappling Hook, Gravity Bubble Gun, Guitar)",
+            "goals": {
+                "Statistics": [
+                    {
+                        "statisticName": "DailyBatUsed",
+                        "value": 1
+                    },
+                    {
+                        "statisticName": "DailyIronHandUsed",
+                        "value": 1
+                    },
+                    {
+                        "statisticName": "DailyGrapplingHookUsed",
+                        "value": 1
+                    },
+                    {
+                        "statisticName": "DailyZeroGBubbleGunUsed",
+                        "value": 1
+                    },
+                    {
+                        "statisticName": "DailyGuitarUsed",
+                        "value": 1
+                    }
+                ],
+                "PlayerData": []
+            },
+            "reward": 300
+        }
+    ]
+}
