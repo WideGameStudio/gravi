@@ -1,13 +1,13 @@
 [
     {
-        "id": "throw-freezebomb-001",
-        "name": "Throw a Freeze Bomb",
-        "description": "Spawn a Freeze Bomb and toss it at someone.",
+        "id": "bat-chaos-3players-001",
+        "name": "Bring the Bat Mayhem",
+        "description": "Swing your bat and smack 3 different players into next week.",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyFreezeBomb",
-                    "value": 1
+                    "statisticName": "DailyBatUsed",
+                    "value": 3
                 }
             ],
             "PlayerData": []
