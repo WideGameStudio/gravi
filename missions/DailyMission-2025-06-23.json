@@ -1,12 +1,12 @@
 [
     {
-        "id": "eat-lowghicken-002",
-        "name": "Eat Low Ghicken",
-        "description": "You're hungry. Eat Low Ghicken.",
+        "id": "drink-speeddrink-001",
+        "name": "Drink the Speed Drink",
+        "description": "Feeling slow? Drink the Speed Drink and leave everyone in your dust.",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyLowGhickenUsed",
+                    "statisticName": "DailySpeedDrinkUsed",
                     "value": 1
                 }
             ],
