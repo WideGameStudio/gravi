@@ -1,0 +1,32 @@
+[
+    {
+        "id": "play-guitar-002",
+        "name": "Shred Some Strings",
+        "description": "Play guitar and let the whole arena feel your rhythm.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGuitarUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "play-meltdown-2rounds-001",
+        "name": "Play Meltdown Mode",
+        "description": "Play 2 rounds of Meltdown mode.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionPlayed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    }
+]
