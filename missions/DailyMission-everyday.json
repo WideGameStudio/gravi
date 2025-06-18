@@ -8,20 +8,5 @@
             "PlayerData": []
         },
         "reward": 100
-    },
-    {
-        "id": "750-nexium-ore",
-        "name": "Mine 750 Nexium ore",
-        "description": "Use the pickaxe or the hand-drill to mine 750 Nexium ore. You can find Nexium ore on astroid nearby",
-        "goals": {
-            "Statistics": [
-                {
-                    "statisticName": "DailyNexiumOre",
-                    "value": 750
-                }
-            ],
-            "PlayerData": []
-        },
-        "reward": 200
     }
 ]
