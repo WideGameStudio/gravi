@@ -1,0 +1,32 @@
+[
+    {
+      "id": "disrupt-zerogbubblegun-001",
+      "name": "Disrupt with Zero-G Bubble Gun",
+      "description": "Disrupt movement using the Zero-G Bubble Gun.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyZeroGBubbleGunUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+        {
+        "id": "play-moshpit-001",
+        "name": "Play Moshpit Mode",
+        "description": "Play a match of Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
