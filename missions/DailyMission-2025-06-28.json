@@ -1,0 +1,32 @@
+[
+    {
+        "id": "eat-meat-001",
+        "name": "Eat Some Meat",
+        "description": "You look a little pale. Eat meat shield.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeatShieldUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "tag-3players-001",
+        "name": "Tag Players",
+        "description": "Tag at least 3 players.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionTags",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    }   
+]
