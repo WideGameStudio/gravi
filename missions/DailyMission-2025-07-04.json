@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 100
+        "reward": 50
     },
     {
         "id": "eat-explosivebean-3-001",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 100
+        "reward": 50
     }    
 ]
