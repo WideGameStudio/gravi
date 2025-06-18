@@ -1,18 +1,18 @@
 [
     {
-        "id": "eat-explosivebean-002",
-        "name": "Eat the Explosive Bean",
-        "description": "Eat the Explosive Bean. It's a bit gassy.",
+        "id": "throw-explosive-nexus-001",
+        "name": "Throw Explosive in Nexus",
+        "description": "Throw an explosive bomb at another player in Nexus.",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyExplosiveBeanUsed",
+                    "statisticName": "DailyExplosiveBombUsed",
                     "value": 1
                 }
             ],
             "PlayerData": []
         },
-        "reward": 50
+        "reward": 100
     },
      {
         "id": "tag-players-meltdown-001",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 50
+        "reward": 100
     }
 ]
