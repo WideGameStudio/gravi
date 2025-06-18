@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 100
+        "reward": 50
     },
     {
         "id": "collect-nexium-250-002",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 100
+        "reward": 50
     }    
 ]
