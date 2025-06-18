@@ -1,0 +1,32 @@
+[
+    {
+        "id": "eat-explosivebean-001",
+        "name": "Eat the Explosive Bean",
+        "description": "Eat the Explosive Bean. You can find it at the Genesis vendor.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyExplosiveBeanUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "bubblegun-moshpit-3shots-001",
+        "name": "Shoot Bubbles in Moshpit",
+        "description": "Use the Bubble Gun in Moshpit mode to shoot 3 bubbles.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitBubbleGunUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    }   
+]
