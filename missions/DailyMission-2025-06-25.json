@@ -1,0 +1,33 @@
+[
+    {
+        "id": "eat-cleansemelon-002",
+        "name": "Cool Down with Cleanse Melon",
+        "description": "Overheating? Eat a Cleanse Melon and chill from the inside out.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyClenseMelonUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "use-bat-moshpit-001",
+        "name": "Batter Up!",
+        "description": "Use Bat in the Moshpit to stir things up and send opponents flying.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitBatUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }  
+   
+]
