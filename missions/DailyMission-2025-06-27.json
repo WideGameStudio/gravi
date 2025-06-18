@@ -1,0 +1,32 @@
+[
+    {
+        "id": "punch-moshpit-10-001",
+        "name": "Throw Punches in Moshpit",
+        "description": "Throw 10 punches in Moshpit mode.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitKnucklesUsed",
+                    "value": 10
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "collect-nexium-250-002",
+        "name": "Collect Nexium",
+        "description": "Collect a total of 250 Nexium today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyNexiumOre",
+                    "value": 250
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    }    
+]
