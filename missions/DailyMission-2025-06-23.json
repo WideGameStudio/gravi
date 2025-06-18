@@ -1,0 +1,33 @@
+[
+    {
+        "id": "eat-lowghicken-002",
+        "name": "Eat Low Ghicken",
+        "description": "You're hungry. Eat Low Ghicken.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyLowGhickenUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+     {
+        "id": "knockoff-moshpit-3players-001",
+        "name": "Knock Players Off in Moshpit",
+        "description": "Knock 3 players off the map in Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitKnockouts",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }    
+  
+]
