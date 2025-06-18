@@ -1,12 +1,12 @@
 [
     {
-      "id": "disrupt-zerogbubblegun-001",
-      "name": "Disrupt with Zero-G Bubble Gun",
-      "description": "Disrupt movement using the Zero-G Bubble Gun.",
+        "id": "eat-powerplant-003",
+        "name": "Eat Power Plant",
+        "description": "Gravit needs to eat healthily. Eat Power Plant.",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyZeroGBubbleGunUsed",
+                    "statisticName": "DailyPowerPlantUsed",
                     "value": 1
                 }
             ],
