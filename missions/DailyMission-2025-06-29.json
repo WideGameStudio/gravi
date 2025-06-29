@@ -2,7 +2,7 @@
     {
         "id": "play-moshpit-5-001",
         "name": "Play Moshpit Mode",
-        "description": "Play 5 Moshpit modes.",
+        "description": "Play 5 Moshpit rounds.",
         "goals": {
             "Statistics": [
                 {
