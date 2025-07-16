@@ -1,0 +1,32 @@
+[
+    {
+        "id": "eat-lowghicken-003",
+        "name": "Eat Low Ghicken",
+        "description": "You're hungry. Eat Low Ghicken.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyLowGhickenUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "eat-explosivebean-3-001",
+  "name": "Eat Explosive Beans",
+  "description": "Eat three Explosive Beans.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyExplosiveBeanUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }    
+]

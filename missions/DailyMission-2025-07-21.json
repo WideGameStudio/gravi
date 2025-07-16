@@ -1,0 +1,32 @@
+[
+    {
+       "id": "tag-5-meltdown-001",
+        "name": "Tag in Meltdown",
+        "description": "Tag 5 people in Meltdown mode.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionTags",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "play-meltdown-3times-001",
+        "name": "Play Meltdown Mode",
+        "description": "Play Meltdown mode 3 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionPlayed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }   
+]

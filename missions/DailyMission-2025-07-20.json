@@ -1,0 +1,32 @@
+[
+    {
+        "id": "bat-chaos-3players-001",
+        "name": "Bring the Bat Mayhem",
+        "description": "Swing your bat and smack 3 different players into next week.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBatUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "collect-nexium-250-001",
+        "name": "Collect 250 Nexium",
+        "description": "Collect a total of 250 Nexium today. You must use at least a Pickaxe tool to collect Nexium.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyNexiumOre",
+                    "value": 250
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

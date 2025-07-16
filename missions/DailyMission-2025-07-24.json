@@ -1,0 +1,32 @@
+[
+    {
+        "id": "bubblegun-shoot-3around-001",
+        "name": "Shoot Bubbles Around You",
+        "description": "Use the Bubble Gun to shoot 3 bubbles around you.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyZeroGBubbleGun",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "ironhand-travel-planet-001",
+        "name": "Travel with Iron Hand",
+        "description": "Use Iron Hand to travel to another planet.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyIronHandUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "freezebomb-freeze-player-001",
+        "name": "Freeze with Freeze Bomb",
+        "description": "Freeze someone using a Freeze Bomb.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFreezeBombUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "play-moshpit-3times-001",
+        "name": "Play Moshpit Mode",
+        "description": "Play Moshpit mode 3 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

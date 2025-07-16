@@ -1,0 +1,33 @@
+[
+    {
+        "id": "drink-speeddrink-001",
+        "name": "Drink the Speed Drink",
+        "description": "Feeling slow? Drink the Speed Drink and leave everyone in your dust.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySpeedDrinkUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+     {
+        "id": "knockoff-moshpit-3players-001",
+        "name": "Knock Players Off in Moshpit",
+        "description": "Knock 3 players off the map in Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitKnockouts",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }    
+  
+]
