@@ -1,0 +1,32 @@
+[
+    {
+        "id": "play-moshpit-5-001",
+        "name": "Play Moshpit Mode",
+        "description": "Play 5 Moshpit rounds.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "use-guitar-moshpit-001",
+        "name": "Use Guitar in Moshpit",
+        "description": "Use guitar in Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitGuitarUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }  
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": "score-25-moshpit-001",
+        "name": "Score 25 in Moshpit",
+        "description": "Score 25 points in Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitScore",
+                    "value": 25
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+      {
+        "id": "win-meltdown-001",
+        "name": "Win Meltdown Match",
+        "description": "Win a Meltdown match.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionVictories",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+   
+]

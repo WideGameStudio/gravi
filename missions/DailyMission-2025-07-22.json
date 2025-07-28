@@ -1,0 +1,32 @@
+[
+   {
+  "id": "dig-nexium-pickaxe-001",
+  "name": "Dig Nexium with Pickaxe",
+  "description": "Dig Nexium with a pickaxe. Nexium is a green ore.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPickaxeUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+      "id": "play-meltdown-001",
+      "name": "Play Meltdown Mode",
+      "description": "Play 1 match of Meltdown mode.",
+      "goals": {
+          "Statistics": [
+              {
+                  "statisticName": "DailyMeltdownInfectionPlayed",
+                  "value": 1
+              }
+          ],
+          "PlayerData": []
+      },
+      "reward": 50
+    }
+]

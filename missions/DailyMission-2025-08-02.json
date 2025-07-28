@@ -1,0 +1,32 @@
+[
+    {
+        "id": "eat-powerplant-003",
+        "name": "Eat Power Plant",
+        "description": "Gravit needs to eat healthily. Eat Power Plant.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPowerPlantUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+        {
+        "id": "play-moshpit-001",
+        "name": "Play Moshpit Mode",
+        "description": "Play a match of Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

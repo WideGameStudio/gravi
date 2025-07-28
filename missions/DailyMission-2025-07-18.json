@@ -1,0 +1,32 @@
+[
+    {
+        "id": "earn-30points-moshpit-001",
+  "name": "Earn Points in Moshpit",
+  "description": "Earn 30 points in the Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitScore",
+                    "value": 30
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "use-explosives-moshpit-001",
+        "name": "Use Explosives in Moshpit",
+        "description": "Use explosive bombs in the Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitExplosiveBombUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }   
+]
