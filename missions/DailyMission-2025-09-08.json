@@ -1,0 +1,32 @@
+[
+    {
+        "id": "dumbell002",
+        "name": "Gain Strength",
+        "description": "Eat a pair of Dumbell",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDumbellUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "moshpit003",
+        "name": "Training",
+        "description": "Gain 100 Moshpit Scores",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitScore",
+                    "value": 100
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

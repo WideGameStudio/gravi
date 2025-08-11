@@ -1,0 +1,32 @@
+[
+    {
+        "id": "shark002",
+        "name": "Pro Hunter",
+        "description": "Hunt seven Sharks",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKilled",
+                    "value": 7
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetgravibomb001",
+        "name": "Black Hole Sun",
+        "description": "Throw a Black Hole Bomb three times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBombUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+]

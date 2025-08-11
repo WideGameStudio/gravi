@@ -1,8 +1,8 @@
 [
     {
-        "id": "eat-lowghicken-003",
-        "name": "Eat Low Ghicken",
-        "description": "You're hungry. Eat Low Ghicken.",
+        "id": "lowghicken001",
+        "name": "Chicken Dinner",
+        "description": "Eat a Low Ghicken",
         "goals": {
             "Statistics": [
                 {
@@ -15,18 +15,18 @@
         "reward": 50
     },
     {
-        "id": "eat-explosivebean-3-001",
-  "name": "Eat Explosive Beans",
-  "description": "Eat three Explosive Beans.",
+        "id": "shark001",
+        "name": "Keep an Eye on Jaws!",
+        "description": "",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyExplosiveBeanUsed",
-                    "value": 3
+                    "statisticName": "DailySharkKilled",
+                    "value": 2
                 }
             ],
             "PlayerData": []
         },
         "reward": 50
-    }    
+    }
 ]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "seahorse002",
+        "name": "Seahorse Tamer",
+        "description": "Hunt fifteen Seahorses",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "SeahorseKilled",
+                    "value": 15
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "coral002",
+        "name": "Take a Deep Breath",
+        "description": "Eat three Corals",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBigLungsUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

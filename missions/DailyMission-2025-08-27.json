@@ -1,0 +1,32 @@
+[
+    {
+        "id": "jellyfish001",
+        "name": "Jelly",
+        "description": "Hunt 20 Jellyfishes",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 20
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "sharkkebab001",
+        "name": "Gain Swim Speed",
+        "description": "Eat a Shark Kebab",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKebabUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

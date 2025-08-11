@@ -1,0 +1,32 @@
+[
+    {
+        "id": "shark001",
+        "name": "Keep an Eye on Jaws!",
+        "description": "",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKilled",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetironhands001",
+        "name": "Flying",
+        "description": "Use a Ironhand for two minutes",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyIronHandUsed",
+                    "value": 120
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

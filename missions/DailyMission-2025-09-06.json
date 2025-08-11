@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetguitar001",
+        "name": "A New Band",
+        "description": "Play Guitar three times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGuitarUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "clensemelon001",
+        "name": "Sweet!",
+        "description": "Eat a ClenseMelon",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyClenseMelonUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetsoda002",
+        "name": "Soda Addicted",
+        "description": "Fly with Soda Bottle five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySodaUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "meltdownplayed002",
+        "name": "Experienced Meltdown Player",
+        "description": "Play five Meltdowm Round",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionPlayed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetunderwatermine002",
+        "name": "Mine Field",
+        "description": "Place five Underwater Mines",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyUnderwaterMineUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetfreezebomb002",
+        "name": "Too Cold",
+        "description": "Freeze Gravits five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFreezeBombUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

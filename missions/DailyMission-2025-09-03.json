@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetsoda001",
+        "name": "Space Soda???",
+        "description": "Fly with Soda Bottle three times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySodaUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetunderwatermine001",
+        "name": "Mines",
+        "description": "Place three Underwater Mines",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyUnderwaterMineUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

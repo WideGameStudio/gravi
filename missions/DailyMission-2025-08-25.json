@@ -1,0 +1,32 @@
+[
+    {
+        "id": "nexium002",
+        "name": "Nexium Rich",
+        "description": "Mine 750 Nexiums",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyNexiumOre",
+                    "value": 750
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetspear001",
+        "name": "Pointy!",
+        "description": "Throw a Spear to a Gravit five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySpearUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

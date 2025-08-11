@@ -1,0 +1,32 @@
+[
+    {
+        "id": "dumbell001",
+        "name": "Gain Strength",
+        "description": "Eat a of Dumbell",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDumbellUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "jellyfish001",
+        "name": "Too Much Jelly",
+        "description": "Hunt 25 Jellyfishes",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 25
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

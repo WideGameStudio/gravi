@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetknuckles001",
+        "name": "Boxing Time",
+        "description": "Punch a Gravit twenty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyKnucklesUsed",
+                    "value": 20
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "sharkkebab002",
+        "name": "Family Dinner",
+        "description": "Eat 3 Shark Kebabs",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKebabUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

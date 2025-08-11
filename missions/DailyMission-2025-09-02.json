@@ -1,0 +1,32 @@
+[
+    {
+        "id": "moshpit006",
+        "name": "Moshpit Champion",
+        "description": "Get three Moshpit Victories",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitVictories",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetpropeller001",
+        "name": "Fly Under Water",
+        "description": "Use a Propeller for two minutes",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPropellerUsed",
+                    "value": 120
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

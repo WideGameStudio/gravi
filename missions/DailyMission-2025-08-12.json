@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetgravibomb002",
+        "name": "Destroyer of the Worlds",
+        "description": "Throw a Black Hole Bomb five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBombUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetguitar002",
+        "name": "Rockstar",
+        "description": "Play Guitar five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGuitarUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

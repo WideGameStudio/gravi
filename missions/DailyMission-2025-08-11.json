@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetgrappler001",
+        "name": "Swing",
+        "description": "Shoot a Grappler forty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGrapplingHookUsed",
+                    "value": 40
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetgraviboard001",
+        "name": "Step by Step",
+        "description": "Use W.A.Y. Pad for ten times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBoardUsed",
+                    "value": 10
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+]

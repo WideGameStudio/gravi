@@ -1,0 +1,32 @@
+[
+    {
+        "id": "coral001",
+        "name": "Take a Breath",
+        "description": "Eat a Coral",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBigLungsUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetbat002",
+        "name": "Space Bully",
+        "description": "Hit with a Bat to a random Gravits for fifty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBatUsed",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+]

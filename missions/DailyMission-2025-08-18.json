@@ -1,0 +1,32 @@
+[
+    {
+        "id": "embertetra001",
+        "name": "Just Fishing",
+        "description": "Hunt forty Ember Tetras",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyEmberTetraKilled",
+                    "value": 40
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "aquavinci002",
+        "name": "Juicy",
+        "description": "Drink two AquaVincis",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAquaVinciUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

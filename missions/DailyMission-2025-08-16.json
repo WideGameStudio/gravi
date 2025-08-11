@@ -1,0 +1,32 @@
+[
+    {
+        "id": "nexium001",
+        "name": "Get Green Stuff",
+        "description": "Mine 500 Nexiums",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyNexiumOre",
+                    "value": 500
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetbat001",
+        "name": "Punishment",
+        "description": "Hit with a Bat to a random Gravits for thirty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBatUsed",
+                    "value": 30
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

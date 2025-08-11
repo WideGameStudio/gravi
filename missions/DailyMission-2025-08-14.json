@@ -1,0 +1,32 @@
+[
+    {
+        "id": "seahorse001",
+        "name": "Horses in the Sea",
+        "description": "Hunt ten Seahorses",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "SeahorseKilled",
+                    "value": 10
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetharpoon002",
+        "name": "Underwater Hunter",
+        "description": "Shoot a Harpoon seven times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonGunUsed",
+                    "value": 7
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

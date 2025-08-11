@@ -1,13 +1,13 @@
 [
     {
-        "id": "freezebomb-freeze-player-001",
-        "name": "Freeze with Freeze Bomb",
-        "description": "Freeze someone using a Freeze Bomb.",
+        "id": "gadgetgraviboard002",
+        "name": "Sky Walker",
+        "description": "Use W.A.Y. Pad for fifteen times",
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyFreezeBombUsed",
-                    "value": 1
+                    "statisticName": "DailyGraviBoardUsed",
+                    "value": 15
                 }
             ],
             "PlayerData": []
@@ -15,9 +15,9 @@
         "reward": 50
     },
     {
-        "id": "play-moshpit-3times-001",
-        "name": "Play Moshpit Mode",
-        "description": "Play Moshpit mode 3 times.",
+        "id": "moshpit001",
+        "name": "Moshpit Rookie",
+        "description": "Play three Moshpit Round",
         "goals": {
             "Statistics": [
                 {

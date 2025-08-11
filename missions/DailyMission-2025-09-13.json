@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetharpoon001",
+        "name": "Scuba Diver",
+        "description": "Shoot a Harpoon five times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonGunUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetpickaxe002",
+        "name": "Space Miner",
+        "description": "Use Pickaxe to mine Nexium seventy times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPickaxeUsed",
+                    "value": 70
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "playertagged002",
+        "name": "Meltdown Champion",
+        "description": "Tag twelve Gravits",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionTags",
+                    "value": 12
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "speeddrink002",
+        "name": "ishowspeed",
+        "description": "Drink three Speed Drink",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySpeedDrinkUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

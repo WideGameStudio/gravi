@@ -1,0 +1,32 @@
+[
+    {
+        "id": "playertagged001",
+        "name": "Tagger",
+        "description": "Tag ten Gravits",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionTags",
+                    "value": 10
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "meatshield001",
+        "name": "Meaty",
+        "description": "Eat a Meat Shield",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeatShieldUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

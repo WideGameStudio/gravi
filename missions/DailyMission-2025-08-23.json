@@ -1,0 +1,32 @@
+[
+    {
+        "id": "embertetra002",
+        "name": "Fish Emporer",
+        "description": "Hunt fifty Ember Tetras",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyEmberTetraKilled",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetfreezebomb001",
+        "name": "Getting Cold",
+        "description": "Freeze Gravits three times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFreezeBombUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

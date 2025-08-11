@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetpickaxe001",
+        "name": "",
+        "description": "Use Pickaxe to mine Nexium fifty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPickaxeUsed",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "moshpit005",
+        "name": "Becoming a Champion",
+        "description": "Get one Moshpit Victories",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitVictories",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+]

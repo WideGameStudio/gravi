@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetbubblegun002",
+        "name": "Bubble Master",
+        "description": "Shoot seven bubbles using Bubble Gun",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyZeroGBubbleGunUsed",
+                    "value": 7
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "meltdownvictories001",
+        "name": "Meltdown Rookie",
+        "description": "Win a Meltdown Round",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionVictories",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

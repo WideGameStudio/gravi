@@ -1,0 +1,32 @@
+[
+    {
+        "id": "gadgetgrappler002",
+        "name": "Spiderman",
+        "description": "Shoot a Grappler fifty times",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGrapplingHookUsed",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "moshpit002",
+        "name": "Trained Warrior",
+        "description": "Play five Moshpit Round",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

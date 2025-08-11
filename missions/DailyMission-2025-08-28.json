@@ -1,0 +1,32 @@
+[
+    {
+        "id": "beanureeves002",
+        "name": "Bean Hunger",
+        "description": "Eat two BeanuReeves",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyExplosiveBeanUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "moshpit004",
+        "name": "Aimimng Higher Places",
+        "description": "Gain 250 Moshpit Scores",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitScore",
+                    "value": 250
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

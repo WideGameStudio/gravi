@@ -1,0 +1,32 @@
+[
+    {
+        "id": "meltdownplayed001",
+        "name": "Play Meltdown Mode",
+        "description": "Play three Meltdowm Round",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownInfectionPlayed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "gadgetexplosivebomb002",
+        "name": "Bombardino Crocodilo",
+        "description": "Throw five Frag Bombs",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyExplosiveBombUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "powerplant002",
+        "name": "Not a Picky Eater",
+        "description": "Eat two Power Plants",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPowerPlantUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "embertetra002",
+        "name": "Fish Emporer",
+        "description": "Hunt fifty Ember Tetras",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyEmberTetraKilled",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
