@@ -17,7 +17,7 @@
     {
         "id": "gadgetbat001",
         "name": "Punishment",
-        "description": "Hit with a Bat to a random Gravits for thirty times",
+        "description": "Hit Gravits with a Bat thirty times",
         "goals": {
             "Statistics": [
                 {
