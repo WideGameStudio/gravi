@@ -17,7 +17,7 @@
     {
         "id": "gadgetbat002",
         "name": "Space Bully",
-        "description": "Hit with a Bat to a random Gravits for fifty times",
+        "description": "Hit Gravits with a Bat fifty times",
         "goals": {
             "Statistics": [
                 {
