@@ -2,7 +2,7 @@
     {
         "id": "gadgetgraviboard002",
         "name": "Sky Walker",
-        "description": "Use W.A.Y. Pad for fifteen times",
+        "description": "Use W.A.Y. Pad fifteen times",
         "goals": {
             "Statistics": [
                 {
@@ -17,7 +17,7 @@
     {
         "id": "moshpit001",
         "name": "Moshpit Rookie",
-        "description": "Play three Moshpit Round",
+        "description": "Play three Moshpit Rounds",
         "goals": {
             "Statistics": [
                 {
