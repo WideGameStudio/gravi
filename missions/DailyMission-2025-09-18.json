@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d09-kill-shark-002",
+        "name": "Shark Slayer (Day 9)",
+        "description": "Defeat 2 Sharks in a single day. A true challenge!",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKilled",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d09-kill-angler-fish-002",
+        "name": "Angler Extinguisher (Day 9)",
+        "description": "Defeat 3 Angler Fish today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAngler FishKilled",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
