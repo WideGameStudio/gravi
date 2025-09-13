@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d01-kill-alien-piranha-001",
+        "name": "Alien Piranha Hunter",
+        "description": "Kill 5 Alien Piranhas today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAlienPiranhaKilled",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d01-use-aquavinci-001",
+        "name": "Aquavinci Energy",
+        "description": "Use Aquavinci 3 times to boost yourself.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAquaVinciUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
