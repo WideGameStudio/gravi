@@ -1,0 +1,32 @@
+[
+    {
+        "id": "hunt-piranha-005",
+        "name": "Piranha Hunter",
+        "description": "Kill 8 Piranhas today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyPiranhaKilled",
+                    "value": 8
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "moshpit-victory-001",
+        "name": "Arena Champion",
+        "description": "Win 3 matches in Moshpit today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitVictories",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
