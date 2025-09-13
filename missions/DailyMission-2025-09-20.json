@@ -1,0 +1,32 @@
+[
+    {
+        "id": "consume-dumbell-001",
+        "name": "Dumbell User",
+        "description": "Use Dumbell 4 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDumbellUsed",
+                    "value": 4
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "shoot-harpoon-002",
+        "name": "Harpoon Shooter",
+        "description": "Fire the Harpoon 6 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonGunUsed",
+                    "value": 6
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
