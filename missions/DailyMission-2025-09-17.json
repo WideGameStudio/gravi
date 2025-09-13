@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d04-kill-seahorse-001",
+        "name": "Seahorse Slayer (Day 4)",
+        "description": "Kill 3 Seahorses in one day.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySeahorseKilled",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d04-use-shark-kebab-001",
+        "name": "Protein Boost (Day 4)",
+        "description": "Use Shark Kebab 3 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKebabUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
