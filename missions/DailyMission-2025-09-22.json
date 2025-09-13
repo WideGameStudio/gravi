@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d07-kill-jellyfish-002",
+        "name": "Static Discharge (Day 7)",
+        "description": "Kill 6 Jellyfish today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 6
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d07-eat-coral-002",
+        "name": "Deep Breather (Day 7)",
+        "description": "Consume Coral 5 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBigLungsUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
