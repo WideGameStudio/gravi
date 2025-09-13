@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d02-kill-ember-tetra-001",
+        "name": "Red Fish Collector (Day 2)",
+        "description": "Kill 6 Ember Tetra(Red Fish) in one day.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyEmberTetraKilled",
+                    "value": 6
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d02-eat-coral-001",
+        "name": "Big Lungs (Day 2)",
+        "description": "Consume Coral 4 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBigLungsUsed",
+                    "value": 4
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
