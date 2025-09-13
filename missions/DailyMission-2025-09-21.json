@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d08-kill-shark-001",
+        "name": "Shark Hunter (Day 8)",
+        "description": "Defeat 1 Shark today. Good luck!",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKilled",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d08-use-shark-kebab-002",
+        "name": "Refuel & Fight (Day 8)",
+        "description": "Use Shark Kebab 2 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKebabUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
