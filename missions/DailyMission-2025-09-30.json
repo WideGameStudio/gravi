@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d06-use-harpoon-006",
+        "name": "Harpoon Hunter (Day 6)",
+        "description": "Blast enemies with 6 Harpoon shots.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonUsed",
+                    "value": 6
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d06-moshpit-played-002",
+        "name": "Brawl Enthusiast (Day 6)",
+        "description": "Play 2 full Moshpit rounds today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitPlayed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
