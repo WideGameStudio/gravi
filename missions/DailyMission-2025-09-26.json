@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d02-kill-shark-001",
+        "name": "Shark Slayer (Day 2)",
+        "description": "Kill 1 Shark today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySharkKilled",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d02-kill-robofish-003",
+        "name": "Robo Wrecker (Day 2)",
+        "description": "Crush 3 RoboFish before logging off.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyRoboFishKilled",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
