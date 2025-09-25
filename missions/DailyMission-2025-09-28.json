@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d04-use-graviboard-006",
+        "name": "Wave Rider (Day 4)",
+        "description": "Use your GraviBoard 6 times today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBoardUsed",
+                    "value": 6
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d04-use-freezebomb-005",
+        "name": "Ice Breaker (Day 4)",
+        "description": "Throw 5 Freeze Bombs today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFreezeBombUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
