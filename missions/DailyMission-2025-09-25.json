@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d01-kill-jellyfish-002",
+        "name": "Zap Attack (Day 1)",
+        "description": "Defeat 2 Jellyfish before the day ends.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d01-kill-piranha-004",
+        "name": "Piranha Hunter (Day 1)",
+        "description": "Take down 4 Alien Piranhas today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAlien PiranhaKilled",
+                    "value": 4
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
