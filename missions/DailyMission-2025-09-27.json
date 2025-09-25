@@ -1,0 +1,32 @@
+[
+  {
+        "id": "d03-kill-seahorse-005",
+        "name": "Tide Tamer (Day 3)",
+        "description": "Knock out 5 Seahorses in battles.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailySeahorseKilled",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d03-use-grapplinghook-010",
+        "name": "Hook Master (Day 3)",
+        "description": "Use your Grappling Hook 10 times to swing across the map.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGrapplingHookUsed",
+                    "value": 10
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
