@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d05-moshpit-score-200",
+        "name": "Arena Grinder (Day 5)",
+        "description": "Score at least 100 points in Moshpit.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMoshpitScore",
+                    "value": 100
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d05-meltdown-victory-001",
+        "name": "Outbreak Survivor (Day 5)",
+        "description": "Win 1 match of Meltdown 'n Station.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdowninfectionVictories",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
