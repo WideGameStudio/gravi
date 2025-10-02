@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 80
+        "reward": 50
     },
     {
         "id": "d12-use-gravremote-001",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 60
+        "reward": 50
     }
 ]
