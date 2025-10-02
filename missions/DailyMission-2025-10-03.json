@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d01-kill-piranha-003",
+    "name": "Piranha Problem (Day 1)",
+    "description": "Kill 3 Alien Piranhas today.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyAlienPiranhaKilled", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d01-kill-angler-001",
+    "name": "Lure Hunter (Day 1)",
+    "description": "Try to kill 1 Angler Fish before the day ends.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyAngler FishKilled", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 60
+  }
+]
