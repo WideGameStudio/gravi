@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d08-use-dumbell-001",
+        "name": "Gym Day (Day 8)",
+        "description": "Use the Dumbell once. You can get the Dumbell from Clam Inc. in Coconut Bay.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDumbellUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 40
+    },
+    {
+        "id": "d08-kill-embertetra-003",
+        "name": "Redfish Run (Day 8)",
+        "description": "Kill 3 Redfish and convert them to tokens.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyEmberTetrakilled",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 70
+    }
+]
