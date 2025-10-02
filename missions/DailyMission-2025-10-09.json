@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 100
+        "reward": 50
     },
     {
         "id": "d10-use-freeze-001",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 55
+        "reward": 50
     }
 ]
