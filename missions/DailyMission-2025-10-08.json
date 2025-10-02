@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d09-eat-beans-003",
+        "name": "Bean Boost (Day 9)",
+        "description": "Eat 3 Explosive Beans and… visit the Station toilet.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "Daily ExplosiveBeanUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 45
+    },
+    {
+        "id": "d09-use-explobomb-003",
+        "name": "Boom Brigade (Day 9)",
+        "description": "Use the Explosive Bomb 3 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyExplosiveBombUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
