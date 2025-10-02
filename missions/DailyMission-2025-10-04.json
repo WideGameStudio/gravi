@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d05-use-aquavinci-002",
+        "name": "Clear Waters (Day 5)",
+        "description": "Use Aqua Vinci 2 times. See comfortably underwater. Get it at Clam Inc. in Coconut Bay.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyAquaVinciUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d05-bat-bonks-003",
+        "name": "Batter Up (Day 5)",
+        "description": "Beat your friends 3 times with a bat.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBatUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 40
+    }
+]
