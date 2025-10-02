@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d14-harpoon-003",
+        "name": "Reel It In (Day 14)",
+        "description": "Use the Harpoon and catch fish 3 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d14-ironhand-spend-001",
+        "name": "Heavy Wallet (Day 14)",
+        "description": "Spend 5000 Dark Matter with the Iron Hand.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyIronHandUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
