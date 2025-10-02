@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d03-kill-jellyfish-001",
+        "name": "Jellyfish Hunter (Day 3)",
+        "description": "Eliminate 4 Jellyfish today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 4
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d03-use-dark-matter-001",
+        "name": "Dark Matter Consumer (Day 3)",
+        "description": "Use 2 Dark Matter Batteries.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDarkMatterBatteryUsed",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
