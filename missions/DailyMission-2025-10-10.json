@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d11-hook-traversal-025",
+        "name": "Swing King (Day 11)",
+        "description": "Use a Grappling Hook to cross from one place to another 25 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGrappling HookUsed",
+                    "value": 25
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 90
+    },
+    {
+        "id": "d11-use-graviboard-005",
+        "name": "WAY Up (Day 11)",
+        "description": "Move upward using the W.A.Y pad gadget (GraviBoard) 5 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBoardUsed",
+                    "value": 5
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 45
+    }
+]
