@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d06-use-biglungs-001",
+        "name": "Deep Breather (Day 6)",
+        "description": "Use Big Lungs once—dark matter drains less underwater. Find it at Clam Inc. in Coconut Bay.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBigLungsUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+    {
+        "id": "d06-bomb-doublehit-001",
+        "name": "Two Birds (Day 6)",
+        "description": "Land a bomb that hits at least two people.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyBombUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 60
+    }
+]
