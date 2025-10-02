@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d13-guitar-jam-001",
+        "name": "Serenade Squad (Day 13)",
+        "description": "Play the guitar for your friends.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGuitarUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 35
+    },
+    {
+        "id": "d13-harpoon-gun-003",
+        "name": "Reel It In (Gun) (Day 13)",
+        "description": "Use the Harpoon Gun and catch fish 3 times.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyHarpoonGunUsed",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 55
+    }
+]
