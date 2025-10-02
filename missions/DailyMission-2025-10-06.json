@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d07-use-clensemelon-001",
+        "name": "Clean Slate (Day 7)",
+        "description": "Use ClenseMelon once. (Grab it from the vendor.)",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyClenseMelonUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 40
+    },
+    {
+        "id": "d07-use-dmbattery-001",
+        "name": "Power Surge (Day 7)",
+        "description": "Use a DarkMatter Battery once. Get dark batteries at Clam Inc. in Coconut Bay.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyDarkMatterBatteryUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
