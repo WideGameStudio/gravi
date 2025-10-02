@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d15-kill-jelly-003",
+        "name": "Static Discharge (Day 15)",
+        "description": "Kill 3 Jellyfish today.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyJellyfishKilled",
+                    "value": 3
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    },
+       {
+        "id": "tag-players-meltdown-001",
+        "name": "Tag Players in Meltdown",
+        "description": "Tag 2 different players in Meltdown.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyMeltdownModeInfectionTags",
+                    "value": 2
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 50
+    }
+]
