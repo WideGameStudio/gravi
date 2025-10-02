@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 40
+        "reward": 50
     },
     {
         "id": "d08-kill-embertetra-003",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 70
+        "reward": 50
     }
 ]
