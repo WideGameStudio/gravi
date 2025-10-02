@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d10-collect-fishmeat-050",
+        "name": "Butcher of the Bay (Day 10)",
+        "description": "Collect 50 Fish Meat.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFishMeatSource",
+                    "value": 50
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 100
+    },
+    {
+        "id": "d10-use-freeze-001",
+        "name": "Freeze Frame (Day 10)",
+        "description": "Use a Freeze Bomb and freeze at least one friend.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyFreezeBombUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 55
+    }
+]
