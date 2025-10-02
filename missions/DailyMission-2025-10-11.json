@@ -1,0 +1,32 @@
+[
+    {
+        "id": "d12-use-gravibomb-001",
+        "name": "Event Horizon (Day 12)",
+        "description": "Use a black hole bomb to pull 3 friends into it.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGraviBombUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 80
+    },
+    {
+        "id": "d12-use-gravremote-001",
+        "name": "Nexus Rooftops (Day 12)",
+        "description": "Use the Gravity Remote and explore the roof of the Nexus.",
+        "goals": {
+            "Statistics": [
+                {
+                    "statisticName": "DailyGravityRemoteUsed",
+                    "value": 1
+                }
+            ],
+            "PlayerData": []
+        },
+        "reward": 60
+    }
+]
