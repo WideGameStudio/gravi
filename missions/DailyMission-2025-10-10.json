@@ -12,7 +12,7 @@
             ],
             "PlayerData": []
         },
-        "reward": 90
+        "reward": 50
     },
     {
         "id": "d11-use-graviboard-005",
@@ -27,6 +27,6 @@
             ],
             "PlayerData": []
         },
-        "reward": 45
+        "reward": 50
     }
 ]
