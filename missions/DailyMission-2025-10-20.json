@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d34-moshpit-knockouts-005",
+    "name": "Knockout King (Day 34)",
+    "description": "At least 5 people were ejected from the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitKnockouts", "value": 5 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d34-kill-piranha-003",
+    "name": "Hungry Waters (Day 34)",
+    "description": "Kill at least 3 piranhas.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyPiranhaKilled", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
