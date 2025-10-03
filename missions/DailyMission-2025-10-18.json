@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d32-moshpit-freezebomb-001",
+    "name": "Ice Age (Day 32)",
+    "description": "Use freeze bombs in the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitFreezeBombUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d32-get-nexium-100",
+    "name": "Ore Collector (Day 32)",
+    "description": "Get 100 Nexium.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyNexiumOre", "value": 100 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
