@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d42-use-soda-001",
+    "name": "Soda Roulette (Day 42)",
+    "description": "Play soda roulette with your friends.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailySodaUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d42-use-spear-001",
+    "name": "Spear Fisher (Day 42)",
+    "description": "Kill fish with a spear.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailySpearUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
