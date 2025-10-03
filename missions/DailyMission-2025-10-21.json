@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d35-moshpit-knuckles-050",
+    "name": "Punch Drunk (Day 35)",
+    "description": "Throw 50 punches in the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitKnucklesUsed", "value": 50 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d35-eat-powerplant-003",
+    "name": "Leaf Eater (Day 35)",
+    "description": "You need to eat to get stronger. Eat 3 power plants.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyPowerPlantUsed", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
