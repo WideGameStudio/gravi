@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d38-moshpit-victories-003",
+    "name": "Arena Champion (Day 38)",
+    "description": "Win the Moshpit three times.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitVictories", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d38-tag-meltdown-002",
+    "name": "Asteroid Tagger (Day 38)",
+    "description": "Tag two people in Asteroid City.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMeltdowninfectionTags", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
