@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d44-use-underwatermine-001",
+    "name": "Sea Trap (Day 44)",
+    "description": "Drop one underwater mine into the sea.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyUnderwaterMineUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d44-use-zerogbubble-002",
+    "name": "Zero-G Jailer (Day 44)",
+    "description": "Use the bubble gun to keep two people in one bubble.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyZeroGBubbleGunUsed", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
