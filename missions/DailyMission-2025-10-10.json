@@ -6,7 +6,7 @@
         "goals": {
             "Statistics": [
                 {
-                    "statisticName": "DailyGrappling HookUsed",
+                    "statisticName": "DailyGrapplingHookUsed",
                     "value": 25
                 }
             ],
