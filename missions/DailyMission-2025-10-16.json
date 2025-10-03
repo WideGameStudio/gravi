@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d30-moshpit-bubblegun-001",
+    "name": "Bubble Trouble (Day 30)",
+    "description": "Find and use the bubble gun in the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitBubbleGunUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d30-eat-lowghicken-002",
+    "name": "Snack Time (Day 30)",
+    "description": "Aren't you hungry? Eat two Low-ghicken.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyLowGhickenUsed", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
