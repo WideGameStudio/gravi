@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d31-moshpit-explobomb-001",
+    "name": "Explosive Entry (Day 31)",
+    "description": "Find and use explosive bombs in the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitExplosiveBombUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d31-eat-meatshield-001",
+    "name": "Protein Power (Day 31)",
+    "description": "Eating meat makes you strong. Eat one Meat Shield.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMeatShieldUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
