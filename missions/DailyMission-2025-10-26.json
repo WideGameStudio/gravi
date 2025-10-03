@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d40-meltdown-victories-003",
+    "name": "Survivor Champ (Day 40)",
+    "description": "Won 3 meltdown victories at the Station.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMeltdowninfectionVictories", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d40-eat-sharkkebab-001",
+    "name": "Kebab Feast (Day 40)",
+    "description": "EAT KEBAB! You can get from Clam Inc. in CoconutBay",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailySharkKebabUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
