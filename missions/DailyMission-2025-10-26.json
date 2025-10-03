@@ -14,7 +14,7 @@
   {
     "id": "d40-eat-sharkkebab-001",
     "name": "Kebab Feast (Day 40)",
-    "description": "EAT KEBAB! You can get from Clam Inc. in CoconutBay",
+    "description": "EAT KEBAB! Find it at Clam Inc. in Coconut Bay.",
     "goals": {
       "Statistics": [
         { "statisticName": "DailySharkKebabUsed", "value": 1 }
