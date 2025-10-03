@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d43-use-speeddrink-001",
+    "name": "Thirst Quencher (Day 43)",
+    "description": "You're thirsty, drink a speed drink.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailySpeedDrinkUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d43-use-teleport-001",
+    "name": "Blink Cannon (Day 43)",
+    "description": "Use the Blink Cannon.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyTeleportLauncherUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
