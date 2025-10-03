@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d41-kill-shark-002",
+    "name": "Deep Sea Slayer (Day 41)",
+    "description": "Kill at least 2 sharks.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "Daily SharkKilled", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 100
+  },
+  {
+    "id": "d29-use-knuckles-002",
+    "name": "Knuckle Sandwich (Day 29)",
+    "description": "Beat up two people using a knuckle gadget.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyKnuckles Used", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
