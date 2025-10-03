@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d36-moshpit-played-005",
+    "name": "Brawl Regular (Day 36)",
+    "description": "Play Moshpit 5 times.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitPlayed", "value": 5 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d36-use-propeller-001",
+    "name": "Sea Spinner (Day 36)",
+    "description": "Moving through the sea using a propeller.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyPropellerUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
