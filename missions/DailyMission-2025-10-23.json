@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d37-moshpit-score-050",
+    "name": "Point Collector (Day 37)",
+    "description": "Score at least 50 points in Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitScore", "value": 50 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d37-kill-robofish-003",
+    "name": "Silent Strike (Day 37)",
+    "description": "Kill 3 robofish. If you make a sound, they'll attack you.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyRoboFishKilled", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
