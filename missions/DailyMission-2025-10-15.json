@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d29-moshpit-bat-001",
+    "name": "Bat Swinger (Day 29)",
+    "description": "Find and use the bat in the Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitBatUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d29-use-knuckles-002",
+    "name": "Knuckle Sandwich (Day 29)",
+    "description": "Beat up three people using a knuckle gadget.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyKnuckles Used", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
