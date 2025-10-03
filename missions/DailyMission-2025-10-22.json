@@ -14,7 +14,7 @@
   {
     "id": "d36-use-propeller-001",
     "name": "Sea Spinner (Day 36)",
-    "description": "Moving through the sea using a propeller.",
+    "description": "Moving through the sea using a propeller. Find it at Clam Inc. in Coconut Bay.",
     "goals": {
       "Statistics": [
         { "statisticName": "DailyPropellerUsed", "value": 1 }
