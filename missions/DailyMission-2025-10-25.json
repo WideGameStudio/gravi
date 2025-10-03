@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d39-meltdown-played-002",
+    "name": "Tag Runner (Day 39)",
+    "description": "Play 2 tag games at the station.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMeltdowninfectionPlayed", "value": 2 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d39-kill-seahorse-003",
+    "name": "Sea Rider (Day 39)",
+    "description": "Kill 3 seahorse.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailySeahorseKilled", "value": 3 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
