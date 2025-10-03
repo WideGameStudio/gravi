@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d33-moshpit-guitar-001",
+    "name": "Rock Smash (Day 33)",
+    "description": "Hit someone with a guitar at a Moshpit.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyMoshpitGuitarUsed", "value": 1 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  },
+  {
+    "id": "d33-use-pickaxe-005",
+    "name": "Miner’s Touch (Day 33)",
+    "description": "Mine 5 different Nexium ores.",
+    "goals": {
+      "Statistics": [
+        { "statisticName": "DailyPickaxeUsed", "value": 15 }
+      ],
+      "PlayerData": []
+    },
+    "reward": 50
+  }
+]
